@@ -1,6 +1,6 @@
 
 # 🖐️ Hi, I'm Aliyon!
-[Profile Banner] (https://ibb.co/KWKvqJh)
+![Profile Banner](https://raw.githubusercontent.com/Aliyon-dev/Aliyon-dev/main/_632619e5-8374-426f-a9d5-e9053b462204.jpg)
 
 
 **Developer & UI/UX Designer**
