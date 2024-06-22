@@ -38,7 +38,10 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
 ## 📚 Featured Projects
 
 1. **Rent A mOvie**
-   - **Description:**The Rent-A-Movie Database Project is designed to manage and enhance the operations of a movie rental store. The system allows the store to keep track of their customers, the movies they rent, and related transactions. This project aims to improve the store's ability to market and provide enhanced service to its customers.
+   - **Description:**
+     The Rent-A-Movie Database Project is designed to manage and enhance the operations of a movie rental store. The system allows the store to keep track of their 
+     customers, the movies they rent, and related transactions. This project aims to improve the store's ability to market and provide enhanced service to its 
+     customers.
    - **Technologies Used:** List the main technologies used in this project.
    - **GitHub Link:** [Repository](https://github.com/Aliyon-dev/Rent-A-Movie)
 
