@@ -28,7 +28,7 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
 ---
 
 ## 📈 GitHub Stats
-![Aliyon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Aliyon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-aliyon-dev&show_icons=true&theme=radical)
 
 ---
 
