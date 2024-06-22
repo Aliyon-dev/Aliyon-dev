@@ -37,17 +37,17 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
 
 ## 📚 Featured Projects
 
-1. **Project Name**
+1. **Rent A mOvie**
    - **Description:** Briefly describe what the project does and its key features.
    - **Technologies Used:** List the main technologies used in this project.
    - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
 
-2. **Project Name**
+2. **Tera Sense**
    - **Description:** Briefly describe what the project does and its key features.
    - **Technologies Used:** List the main technologies used in this project.
    - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
 
-3. **Project Name**
+3. **File System**
    - **Description:** Briefly describe what the project does and its key features.
    - **Technologies Used:** List the main technologies used in this project.
    - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
@@ -55,8 +55,8 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
 ---
 
 ## 📫 How to Reach Me
-- **Email:** aliyaon@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** aliyaon@techiq.global
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aliyon)
 - **Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
 ---
