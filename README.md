@@ -50,8 +50,8 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
    - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
 
 3. **File System**
-   - **Description:** Briefly describe what the project does and its key features.
-   - **Technologies Used:** List the main technologies used in this project.
+   - **Description:** A graphical tool simulating a basic file system, enabling users to manage virtual files and directories interactively.
+   - **Technologies Used:** Developed in C using the GTK+ 3 library for the user interface.
    - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
 
 ---
