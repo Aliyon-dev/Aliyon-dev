@@ -9,9 +9,6 @@
 
 ## 🚀 About Me
 I am a passionate developer and UI/UX designer with a knack for creating seamless user experiences and efficient code. With a strong background in both front-end and back-end development, I thrive on building full-stack applications that are both functional and visually appealing.
-
-![Profile Banner](https://raw.githubusercontent.com/Aliyon-dev/Aliyon-dev/main/create%20an%20image%20with%20the%20title%20%20I%20design%2C%20I%20code%2C%20I%20create%20experiences%20that%20are%20out%20this%20worl.png)
-
 ---
 
 ## 💻 Tech Stack
