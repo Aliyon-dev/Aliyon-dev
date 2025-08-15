@@ -1,65 +1,76 @@
+<!-- Banner -->
+![Aliyon Banner](https://via.placeholder.com/1200x300.png?text=Hi%2C+I'm+Aliyon+%7C+Front-End+Developer+%26+UI%2FUX+Designer)
 
-# 🖐️ Hi, I'm Aliyon!
-
-
-
-**Front End Developer & UI/UX Designer**
-
----
-
-## 🚀 About Me
-I am a fronted developer obsessed with frontend development and UI/UX design with a knack for creating seamless user experiences and efficient code. With a strong background in both front-end and back-end development, I thrive on building full-stack applications that are both functional and visually appealing.
----
-
-## 💻 Tech Stack
-- **Languages:** Python, JavaScript, Java, Go
-- **Frameworks/Libraries:** React, Next JS, SpringBoot Node.js, Django, Flask
-- **Design Tools:** Figma, Sketch, Adobe XD
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Others:** Git, Docker, AWS, Ngnix, Daphne, 
+# 🖐️ Hi, I'm Aliyon!  
+**Front-End Developer & UI/UX Designer**  
 
 ---
 
-## 🌟 Skills
-- **Front-End Development:** Creating responsive and interactive web interfaces using React and other modern JavaScript frameworks.
-- **Back-End Development:** Building robust and scalable server-side applications with Python and JavaScript.
-- **UI/UX Design:** Designing user-centered interfaces that are intuitive and aesthetically pleasing.
-- **Database Management:** Implementing and managing databases to ensure data integrity and performance.
-- **Version Control:** Proficient in Git for efficient project management and collaboration.
+## 🚀 About Me  
+I’m a passionate front-end developer and UI/UX designer who loves crafting **seamless user experiences** backed by **efficient, clean code**.  
+With skills spanning front-end, back-end, and design, I thrive on building full-stack applications that are both functional and beautiful.
 
 ---
 
-## 📈 GitHub Stats
-![Aliyon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyon-dev&show_icons=true&theme=radical)
+## 💻 Tech Stack  
+
+### Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+
+### Tools & Platforms  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
 
 ---
 
-## 📚 Featured Projects
-
-1. **Rent A mOvie**
-   - **Description:**
-     The Rent-A-Movie Database Project is designed to manage and enhance the operations of a movie rental store. The system allows the store to keep track of their 
-     customers, the movies they rent, and related transactions. This project aims to improve the store's ability to market and provide enhanced service to its 
-     customers.
-   - **Technologies Used:** List the main technologies used in this project.
-   - **GitHub Link:** [Repository](https://github.com/Aliyon-dev/Rent-A-Movie)
-
-2. **Tera Sense**
-   - **Description:** Terra sense is platform that empowers farmers to manage and moniter their farms remotely. It leverages a hardware box with smart sensors to get feedback on the status of the farm
-   - **Technologies Used:** React Native, Django, Websockets, AWS EC2
-   - **GitHub Link:** [Repository](https://github.com/Aliyon-dev/smartfarmapp)
-
-3. **File System**
-   - **Description:** A graphical tool simulating a basic file system, enabling users to manage virtual files and directories interactively.
-   - **Technologies Used:** Developed in C using the GTK+ 3 library for the user interface.
-   - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
+## 🌟 Skills  
+- **Front-End Development:** Responsive, interactive interfaces with React, Next.js, and modern JS.  
+- **Back-End Development:** Scalable applications with Python, Go, and JavaScript.  
+- **UI/UX Design:** Intuitive, user-centered designs that balance beauty and usability.  
+- **Database Management:** MySQL, PostgreSQL, MongoDB optimization and design.  
+- **Version Control:** Git for collaboration and version management.  
 
 ---
 
-## 📫 How to Reach Me
-- **Email:** aliyaon@techiq.global
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aliyon)
-- **Portfolio:** [Your Portfolio](https://www.aliyon.tech)
+## 📈 GitHub Stats  
+![Aliyon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyon-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyon-dev&layout=compact&theme=radical)  
 
 ---
 
+## 📚 Featured Projects  
+
+### 1. **Rent-A-Movie**  
+🎬 Database management for a movie rental store — track customers, rentals, and transactions.  
+**Tech:** Python, Django, MySQL  
+🔗 [GitHub Repository](https://github.com/Aliyon-dev/Rent-A-Movie)  
+
+### 2. **TerraSense**  
+🌱 Smart farming platform for real-time farm monitoring and IoT control.  
+**Tech:** React Native, Django, WebSockets, AWS EC2  
+🔗 [GitHub Repository](https://github.com/Aliyon-dev/smartfarmapp)  
+
+### 3. **File System Simulator**  
+📂 GUI-based tool simulating a file system for managing virtual files and directories.  
+**Tech:** C, GTK+ 3  
+🔗 [GitHub Repository](https://github.com/your-username/project-repo)  
+
+---
+
+## 📫 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-aliyaon@techiq.global-blue?style=for-the-badge&logo=gmail)](mailto:aliyaon@techiq.global)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aliyon-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aliyon)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliyon.tech-orange?style=for-the-badge&logo=About.me)](https://www.aliyon.tech)  
+
+---
