@@ -3,20 +3,20 @@
 
 
 
-**Developer & UI/UX Designer**
+**Front End Developer & UI/UX Designer**
 
 ---
 
 ## 🚀 About Me
-I am a passionate developer and UI/UX designer with a knack for creating seamless user experiences and efficient code. With a strong background in both front-end and back-end development, I thrive on building full-stack applications that are both functional and visually appealing.
+I am a fronted developer obsessed with frontend development and UI/UX design with a knack for creating seamless user experiences and efficient code. With a strong background in both front-end and back-end development, I thrive on building full-stack applications that are both functional and visually appealing.
 ---
 
 ## 💻 Tech Stack
-- **Languages:** Python, JavaScript
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
+- **Languages:** Python, JavaScript, Java, Go
+- **Frameworks/Libraries:** React, Next JS, SpringBoot Node.js, Django, Flask
 - **Design Tools:** Figma, Sketch, Adobe XD
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Others:** Git, Docker, AWS
+- **Others:** Git, Docker, AWS, Ngnix, Daphne, 
 
 ---
 
@@ -45,9 +45,9 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
    - **GitHub Link:** [Repository](https://github.com/Aliyon-dev/Rent-A-Movie)
 
 2. **Tera Sense**
-   - **Description:** Briefly describe what the project does and its key features.
-   - **Technologies Used:** List the main technologies used in this project.
-   - **GitHub Link:** [Repository](https://github.com/your-username/project-repo)
+   - **Description:** Terra sense is platform that empowers farmers to manage and moniter their farms remotely. It leverages a hardware box with smart sensors to get feedback on the status of the farm
+   - **Technologies Used:** React Native, Django, Websockets, AWS EC2
+   - **GitHub Link:** [Repository](https://github.com/Aliyon-dev/smartfarmapp)
 
 3. **File System**
    - **Description:** A graphical tool simulating a basic file system, enabling users to manage virtual files and directories interactively.
@@ -59,7 +59,7 @@ I am a passionate developer and UI/UX designer with a knack for creating seamles
 ## 📫 How to Reach Me
 - **Email:** aliyaon@techiq.global
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aliyon)
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com)
+- **Portfolio:** [Your Portfolio](https://www.aliyon.tech)
 
 ---
 
