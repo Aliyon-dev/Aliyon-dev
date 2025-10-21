@@ -54,9 +54,11 @@ With experience in both front-end and back-end development, I love building full
 ## 📚 Featured Projects 
 
 ### 🎬 **Neural Trainer **  
-A modern fitness tracking application built with React, TypeScript, and Firebase. Track your workouts, monitor your mood, and gain insights into your fitness journey with a beautiful, responsive interface.
+A modern fitness tracking application built with React, TypeScript, and Firebase. 
+Track your workouts, monitor your mood, and gain insights into your fitness journey with a beautiful, responsive interface.
 **Tech:** TypeScript, Firebase, React 18, tRPC
 🔗 [View on GitHub](https://github.com/Aliyon-dev/Neural-Trainer.git)
+---
 
 ### 🎬 **Rent-A-Movie**  
 A movie rental store management system for tracking customers, rentals, and transactions.  
