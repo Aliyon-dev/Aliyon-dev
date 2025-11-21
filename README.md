@@ -5,7 +5,7 @@
 
 # 🖐️ Hi, I'm Aliyon!
 
-**Front-End Developer & UI/UX Designer**  
+**Full-Stack Developer & UI/UX Designer**  
 *Crafting seamless user experiences with clean, efficient code*
 
 </div>
