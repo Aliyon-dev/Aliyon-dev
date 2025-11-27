@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate front-end developer and UI/UX designer with expertise in creating intuitive digital experiences. With full-stack development experience, I build applications that are both visually appealing and highly functional.
+I'm a passionate fullstack developer and UI/UX designer with expertise in creating intuitive digital experiences. With full-stack development experience, I build applications that are both visually appealing and highly functional.
 
 ---
 
