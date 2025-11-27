@@ -1,12 +1,10 @@
-<!-- Banner -->
 <div align="center">
   
 ![Aliyon Banner](https://img.shields.io/badge/Hi%20I'm%20Aliyon-Fullstack%20End%20Developer%20%26%20UI%2FUX%20Designer-blueviolet?style=for-the-badge&logo=github)
 
 # 🖐️ Hi, I'm Aliyon!
 
-**Full-Stack Developer & UI/UX Designer**  
-*Crafting seamless user experiences with clean, efficient code*
+**Full-Stack Developer & UI/UX Designer** *Crafting seamless user experiences with clean, efficient code*
 
 </div>
 
@@ -70,21 +68,15 @@ A modern fitness tracking application built with React, TypeScript, and Firebase
 - **Tech:** TypeScript, Firebase, React 18, tRPC
 - **🔗** [View on GitHub](https://github.com/Aliyon-dev/Neural-Trainer)
 
----
-
 ### 🎬 **Rent-A-Movie**
 A comprehensive movie rental store management system for tracking customers, rentals, and transactions.
 - **Tech:** Python, MySQL, Django
 - **🔗** [View on GitHub](https://github.com/Aliyon-dev/Rent-A-Movie)
 
----
-
 ### 🌱 **TerraSense**
 A smart farming platform enabling farmers to monitor and control farms remotely using IoT devices.
 - **Tech:** React Native, Django, WebSockets, AWS EC2
 - **🔗** [View on GitHub](https://github.com/Aliyon-dev/smartfarmapp)
-
----
 
 ### 💾 **File System Simulator**
 A GTK-based C application simulating a basic file system with an interactive UI.
@@ -97,8 +89,8 @@ A GTK-based C application simulating a basic file system with an interactive UI.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aliyaon@techiq.global-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliyaon@techiq.global)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aliyon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyon)  
+[![Email](https://img.shields.io/badge/Email-aliyaon@techiq.global-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliyaon@techiq.global)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aliyon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aliyon.tech-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aliyon.tech)
 
 </div>
