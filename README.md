@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   
-![Aliyon Banner](https://img.shields.io/badge/Hi%20I'm%20Aliyon-Front%20End%20Developer%20%26%20UI%2FUX%20Designer-blueviolet?style=for-the-badge&logo=github)
+![Aliyon Banner](https://img.shields.io/badge/Hi%20I'm%20Aliyon-Fullstack%20End%20Developer%20%26%20UI%2FUX%20Designer-blueviolet?style=for-the-badge&logo=github)
 
 # 🖐️ Hi, I'm Aliyon!
 
