@@ -1,6 +1,6 @@
 <div align="center">
  
- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Aliyon&fontSize=90&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Fullstack%20Pilot%20%26%20UI/UX%20Architect&descAlign=50&descAlignY=55&descSize=25&stroke=b19cd9)
+ <img src="assets/banner.png" width="100%" alt="Banner" />
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=B19CD9&center=true&vCenter=true&width=435&lines=Initiating+Launch+Sequence...;Crafting+Seamless+UI%2FUX;Deploying+Scalable+Backends;Welcome+to+my+Universe." alt="Typing SVG" /></a>
 
@@ -21,6 +21,8 @@
 ---
 
 ## 👨‍🚀 Mission Briefing
+
+<img align="right" width="200" src="assets/avatar.jpg" alt="Avatar" style="border-radius: 20px;" />
 
 **Status:** *Online & Ready for Deployment*
 
